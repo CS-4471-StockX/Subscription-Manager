@@ -1,0 +1,6 @@
+com/stockx/subscriptionmanagerws/repository/TopicRepository.class
+com/stockx/subscriptionmanagerws/services/SubscriptionManagerService.class
+com/stockx/subscriptionmanagerws/entity/Topic.class
+com/stockx/subscriptionmanagerws/controllers/SubscriptionManagerController.class
+com/stockx/subscriptionmanagerws/SubscriptionManagerWsApplication.class
+com/stockx/subscriptionmanagerws/configurations/DynamoDBConfig.class

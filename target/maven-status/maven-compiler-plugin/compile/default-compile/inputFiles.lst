@@ -1,0 +1,6 @@
+/home/jwanger/Documents/CS4471/Subscription-Manager/src/main/java/com/stockx/subscriptionmanagerws/repository/TopicRepository.java
+/home/jwanger/Documents/CS4471/Subscription-Manager/src/main/java/com/stockx/subscriptionmanagerws/services/SubscriptionManagerService.java
+/home/jwanger/Documents/CS4471/Subscription-Manager/src/main/java/com/stockx/subscriptionmanagerws/entity/Topic.java
+/home/jwanger/Documents/CS4471/Subscription-Manager/src/main/java/com/stockx/subscriptionmanagerws/controllers/SubscriptionManagerController.java
+/home/jwanger/Documents/CS4471/Subscription-Manager/src/main/java/com/stockx/subscriptionmanagerws/configurations/DynamoDBConfig.java
+/home/jwanger/Documents/CS4471/Subscription-Manager/src/main/java/com/stockx/subscriptionmanagerws/SubscriptionManagerWsApplication.java
